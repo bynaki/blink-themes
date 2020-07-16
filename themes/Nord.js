@@ -43,9 +43,9 @@ const colors = {
   lightMagenta: nord.nord15,
   lightCyan: nord.nord7,
   lightWhite: nord.nord6,
-  #backgroundColor: nord.nord0,
-  #foregroundColor: nord.nord4,
-  #cursorColor: nord.nord4,
+  //backgroundColor: nord.nord0,
+  //foregroundColor: nord.nord4,
+  //cursorColor: nord.nord4
   backgroundColor: "#21253f",
   foregroundColor: "#d8dee9",
   cursorColor: 'rgba(205,48,114,0.5)'
