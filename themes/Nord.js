@@ -46,7 +46,7 @@ const colors = {
   //backgroundColor: nord.nord0,
   //foregroundColor: nord.nord4,
   //cursorColor: nord.nord4
-  backgroundColor: "#21262f",
+  backgroundColor: "#172030",
   foregroundColor: "#d8dee9",
   cursorColor: 'rgba(205,48,114,0.5)'
 };
